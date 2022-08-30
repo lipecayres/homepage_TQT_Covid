@@ -116,9 +116,35 @@ nav .fa{
     }
 }
 
-/* -------------- Course Section -------------- */
+/* -------------- O Projeto Section -------------- */
 
-.course{
+.projeto{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.projeto-row{
+    flex-basis: 100%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: #fff3f3;
+    padding: 25px;
+    display: flex;
+}
+
+.projeto-row img{
+    height: 500px;
+    margin-left: 5px;
+    margin-right: 30px;
+
+}
+
+/* -------------- Locais de Atuação Section -------------- */
+
+.atuacao{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -140,7 +166,7 @@ p{
     display: flex;
     justify-content: space-between;
 }
-.course-col{
+.atuacao-col{
     flex-basis: 31%;
     background: #fff3f3;
     border-radius: 10px;
@@ -154,7 +180,7 @@ h3{
     font-weight: 600;
     margin: 10px 0;
 }
-.course-col:hover{
+.atuacao-col:hover{
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
 }
 
