@@ -93,6 +93,13 @@ nav .fa{
     .text-box h2{
         font-size: 12px;
     }
+    
+    nav img{
+        width: 100px;
+        padding-left: 10px;
+        padding-top: 15px;
+    }
+
     .nav-links ul li{
         display: block;
     }
@@ -114,10 +121,7 @@ nav .fa{
         font-size: 22px;
         cursor: pointer;
     }
-    nav img{
-        padding-top: 15px;
-        padding-left: 10px;
-        width: 100px;
+    
 }
 
 /* -------------- O Projeto Section -------------- */
@@ -389,7 +393,7 @@ h3{
 
 .icons .fa{
     size: 30px;
-    color:blue;
+    color:#f44336;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
