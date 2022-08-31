@@ -315,8 +315,7 @@ h3{
 }
 
 .icons .fa{
-    size: 30px;
-    color:#f44336;
+    color: blue;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
